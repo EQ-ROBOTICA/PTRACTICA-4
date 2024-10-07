@@ -14,7 +14,7 @@ A diferencia de prácticas anteriores, en esta ocasión se empleó el tipo de da
 
 El código que se implementó para ejecutar la tarea es el siguiente:
 
-´´´
+```
 Function main
 Home
 On 2
@@ -31,7 +31,7 @@ For i = 0 To 3
     Home
 Next
 Fend
-´´´
+```
 
 El proceso comienza en el punto "Home", donde se activa la garra. Se establece la variable i como un entero e inicializa un bucle For desde i=0 hasta 3, repitiendo el proceso de movimiento cuatro veces. En cada iteración, el robot se desplaza a los puntos "Primera" y "Segunda" para recoger una placa, vuelve a "Home" para asegurar el movimiento, y luego se dirige a "Caja", aumentando la altura en el eje Z en 12 mm por iteración. Este valor corresponde al grosor de la placa, permitiendo que el robot apile correctamente las placas una sobre otra.
 
