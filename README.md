@@ -45,5 +45,6 @@ La implementación de bucles en la programación de movimientos facilita signifi
 - *Alejandro Saldaña Garcia:*
   
 ## Referencias bibliográficas
+[1] Microsoft. (s.f.). *Integer data type*. Microsoft Learn. https://learn.microsoft.com/es-es/office/vba/language/reference/user-interface-help/integer-data-type
 
 
