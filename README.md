@@ -43,7 +43,7 @@ La implementación de bucles en la programación de movimientos facilita signifi
 
   
 - *Alejandro Saldaña Garcia:*
-  
+  El uso de comandos "for" nos permite el uso de menor memoria para generar procesos de movimiento al igual que usar los incrementos de posición evitando el uso de memoria y espacio de movimientos extras, incluso teniendo una exactitud mayor
 ## Referencias bibliográficas
 [1] Microsoft. (s.f.). *Integer data type*. Microsoft Learn. https://learn.microsoft.com/es-es/office/vba/language/reference/user-interface-help/integer-data-type
 
