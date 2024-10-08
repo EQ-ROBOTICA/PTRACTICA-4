@@ -40,7 +40,7 @@ El proceso comienza en el punto "Home", donde se activa la garra. Se establece l
 La implementación de bucles en la programación de movimientos facilita significativamente el código para realizar acciones repetitivas, evitando la redundancia de órdenes y agilizando el proceso.
 
 - *Gael Mateo Rangel Chavez:*
-
+Se observó la importancia de considerar el grosor del objeto para ajustar correctamente la coordenada en el eje Z en cada iteración. Además, se notó que el comando "Go" genera un una curva al desplazarse al siguiente punto, dato importante parta evitar posibles colisiones.
   
 - *Alejandro Saldaña Garcia:*
   El uso de comandos "for" nos permite el uso de menor memoria para generar procesos de movimiento al igual que usar los incrementos de posición evitando el uso de memoria y espacio de movimientos extras, incluso teniendo una exactitud mayor
